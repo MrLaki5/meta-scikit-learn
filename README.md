@@ -1,8 +1,8 @@
-meta-scikit-learn
+meta-scikit-learn-imx8
 =================
 
 This layer contains recipes for building scikit-learn and depenencies in the
-OpenEmbedded build system.
+OpenEmbedded build system and has been adjusted for imx8 boards.
 
 ## Configurations Tested
 
